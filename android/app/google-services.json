@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "740976526047",
+    "project_id": "act8-be44d",
+    "storage_bucket": "act8-be44d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740976526047:android:5a529def2504221f009f6a",
+        "android_client_info": {
+          "package_name": "com.mycompany.act8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740976526047-5euunum3heb6utmofodkl9f69qdscea5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcXsrW3ZwGgIQpmy47VyJR58lC4yR33WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740976526047-5euunum3heb6utmofodkl9f69qdscea5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "740976526047-jvnu045hmroeobgjokdsqrm22o8cfjp9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.act8"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
